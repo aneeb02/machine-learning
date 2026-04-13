@@ -25,5 +25,6 @@ dependencies = [
     "scipy==1.15.3",
     "seaborn==0.13.2",
     "threadpoolctl==3.6.0",
+    "ucimlrepo>=0.0.7",
     "uv==0.11.3",
 ]
